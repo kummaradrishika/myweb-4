@@ -4,7 +4,6 @@
 	<groupId>in.Dudekuladasta</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-<releasebranch>
 	<version>0.12.3/version>
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
